@@ -125,6 +125,8 @@
                     <div id="google_translate_element">
 
                     </div>
+
+
                     <!-- Right(Notification) -->
                     <ul class="nav navbar-nav navbar-right">
 

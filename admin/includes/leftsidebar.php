@@ -86,6 +86,10 @@
                                 <a href="#" class="waves-effect"><i class="ti ti-info-alt"></i> <span>Watch Video</span></a>
 
                             </li>
+                            <li>
+                                <a href="#" class="waves-effect"><i class="fa fa-eye" aria-hidden="true"></i> <span>Website Preview</span></a>
+
+                            </li>
                             <!--  
   Author Name: MH RONY.
   GigHub Link: https://github.com/dev-mhrony
