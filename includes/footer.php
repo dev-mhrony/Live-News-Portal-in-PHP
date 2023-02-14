@@ -7,12 +7,16 @@
 <div class="footer-area pt-3 bg-white mb-5">
     <div class="container-fluid">
         <br>
+
         <div class="row">
+
+
             <div class="col">
+                <a class="navbar-brand" href="index.php"><img src="images/logo.png" height="65"></a>
                 <ul class="float-left list-unstyled ">
-                    <li class="mb-2"><a href="#" class="text-dark">Global Economy</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Environment</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Religion</a></li>
+
+                    <li class="mb-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum id vitae fugiat, </li>
+
 
                 </ul>
             </div>
@@ -40,22 +44,8 @@
 
                 </ul>
             </div>
-            <div class="col">
-                <ul class="float-left list-unstyled ">
-                    <li class="mb-2"><a href="#" class="text-dark">Arts</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Books</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Style</a></li>
 
-                </ul>
-            </div>
-            <div class="col d-none d-lg-block">
-                <ul class="float-left list-unstyled ">
-                    <li class="mb-2"><a href="#" class="text-dark">Baseball</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Basketball</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Football: College</a></li>
 
-                </ul>
-            </div>
         </div>
 
         <div style=" padding: 10px; margin-top: 20px;

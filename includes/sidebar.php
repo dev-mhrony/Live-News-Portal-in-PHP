@@ -4,7 +4,7 @@
                         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
-<div class="col-md-3 mt-5">
+<div class="col-md-3 ">
     <!-- Search Widget -->
     <!-- <h4 class="widget-title mb-5">Don't <span>Miss</span></h4> -->
 
@@ -101,6 +101,7 @@
                         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
+
 <a href="tel:+8801608445456">
     <img src="images/ads.jpg" class="img-fluid"></a>
 
@@ -110,11 +111,16 @@
         <iframe width="100%" height="180px" class="youtube" src="https://www.youtube.com/embed/h3xcb_lojMQ" title="Sample Videos / Dummy Videos For Demo Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
+<a href="tel:+8801608445456">
+    <img src="images/ads.jpg" class="img-fluid"></a>
 <div class="card my-4 border-0">
     <div class="card-body p-2">
         <iframe width="100%" height="180px" class="youtube" src="https://www.youtube.com/embed/8ipv81cdGSE" title="Sample Videos / Dummy Videos For Demo Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
+
+<a href="tel:+8801608445456">
+    <img src="images/ads.jpg" class="img-fluid"></a>
 <!--  Author Name: MH RONY.
                         GigHub Link: https://github.com/dev-mhrony
                         Facebook Link:https://www.facebook.com/dev.mhrony
