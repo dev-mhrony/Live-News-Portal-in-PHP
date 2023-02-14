@@ -6,9 +6,10 @@
   for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
   Visit My Website : https://developerrony.com
 -->
-<footer class="footer text-center">
+<footer class="foot text-center" style=" position: sticky;
+  top: 0;">
     <?php echo date('Y');?> © Design and Developed by
-    <a href="https://developerrony.com"> MH RONY</a>
+    <a href=" https://developerrony.com"> MH RONY</a>
 </footer>
 </div>
 </div>
@@ -26,7 +27,8 @@ var resizefunc = [];
   Visit My Website : https://developerrony.com 
 -->
 <script src="assets/js/jquery.min.js"></script>
-<!-- <script src="assets/js/bootstrap.min.js"></script> -->
+<script src="assets/js/bts.js"></script>
+
 <script src="assets/js/detect.js"></script>
 <script src="assets/js/fastclick.js"></script>
 <script src="assets/js/jquery.blockUI.js"></script>

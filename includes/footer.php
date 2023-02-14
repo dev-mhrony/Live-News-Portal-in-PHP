@@ -59,7 +59,7 @@
         </div>
 
         <div>
-            <p style="text-align: center;"> CopyRight by <a href="https://www.youtube.com/@codecampbdofficial">Code Camp BD</a> Design and Developer <a href="https://developerrony.com">MH RONY</a> All Resalve
+            <p style="text-align: center; "> CopyRight by <a href="https://www.youtube.com/@codecampbdofficial">Code Camp BD</a> Design and Developer <a href="https://developerrony.com">MH RONY</a> All Resalve
                 <?php echo "20".date("y"); ?></p>
         </div>
     </div>
