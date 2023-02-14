@@ -41,9 +41,9 @@ And there you have it, a full setup of Basic School Management System in PHP MyS
 
 ![screencapture-localhost-101news-101news-index-php-2023-02-14-15_40_38](https://user-images.githubusercontent.com/78216965/218697806-24826e2a-fc3f-4e4e-8592-9ac0175445f7.png)
 
-![screencapture-localhost-101news-101news-contact-us-php-2023-02-14-15_41_01](https://user-images.githubusercontent.com/78216965/218697791-1580c6d4-28ca-438f-a542-ce43a6688f49.png) ![screencapture-localhost-101news-101news-about-us-php-2023-02-14-15_40_53](https://user-images.githubusercontent.com/78216965/218697802-c31a4f6b-3f6a-4bbe-999f-d4f48fc79ac5.png)
-
 ![screencapture-localhost-101news-101news-news-details-php-2023-02-14-15_41_15](https://user-images.githubusercontent.com/78216965/218697859-7cdf4df2-a966-4533-afbc-7fb8c4b500c7.png)
+
+![screencapture-localhost-101news-101news-contact-us-php-2023-02-14-15_41_01](https://user-images.githubusercontent.com/78216965/218697791-1580c6d4-28ca-438f-a542-ce43a6688f49.png) ![screencapture-localhost-101news-101news-about-us-php-2023-02-14-15_40_53](https://user-images.githubusercontent.com/78216965/218697802-c31a4f6b-3f6a-4bbe-999f-d4f48fc79ac5.png)
 
 ### Admin Preview
 
