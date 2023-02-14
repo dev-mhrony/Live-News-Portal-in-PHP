@@ -75,7 +75,7 @@
                 <div class="row">
                     <div class="owl-carousel owl-theme" id="slider">
                         <div class="card mb-4 border-0">
-                            <img class="card-img-top" src="admin/postimages/8bc5c30be91dca9d07c1db858c60e39f.jpg" alt="" width="100%">
+                            <img class="card-img-top" src="admin/assets/images/01.jpg" alt="" width="100%">
                             <div class="card-body">
                                 <p class="m-0">
                                     <!--category-->
@@ -85,7 +85,7 @@
                                 </p>
                                 <p class="m-0"><small> Posted on 2022-11-11 00:20:09</small></p>
                                 <a href="#" class="card-title text-decoration-none text-dark">
-                                    <h5 class="card-title">T20 World Cup 2022: Semi-final 1, England vs New Zealand Who Said What</h5>
+                                    <h5 class="card-title">FIFA World Cup 2022: Semi-final 1, England vs New Zealand Who Said What</h5>
                                 </a>
                                 <!-- <a href="news-details.php?nid=<?php echo htmlentities($row['pid'])?>" class="">Read More &rarr;</a> -->
                             </div>
