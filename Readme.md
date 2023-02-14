@@ -16,8 +16,10 @@ Live News Portal in PHP Design and Development by MH RONY
 <li> Post Create
 <li> Post Delete and Reset Post
 <li> Contact Page
+<li> Mannage Comment
 <li> About Page
 <li> Account Setting
+<li> Ads Mannage
 
 ### Instructions: How to Run?
 
