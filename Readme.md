@@ -4,14 +4,20 @@ Live News Portal in PHP Design and Development by MH RONY
 
 ### Available Features:
 
-<li>Admin Panel
-<li>Deshbord
-<li>Subject Add
-<li>Subject Management
-<li>Course Add
-<li>Course Management
-<li>Student Add
-<li>Management
+<li> News Portal
+<li> Highlight Post
+<li> Category Section
+<li> Single Post
+<li> About
+<li> Contact Us
+<li> Admin Deshbord
+<li> Category Create
+<li> Sub Category Create
+<li> Post Create
+<li> Post Delete and Reset Post
+<li> Contact Page
+<li> About Page
+<li> Account Setting
 
 ### Instructions: How to Run?
 
