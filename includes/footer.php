@@ -58,7 +58,11 @@
             </div>
         </div>
 
-        <div>
+        <div style=" padding: 10px; margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: center;">
             <p style="text-align: center; "> CopyRight by <a href="https://www.youtube.com/@codecampbdofficial">Code Camp BD</a> Design and Developer <a href="https://developerrony.com">MH RONY</a> All Resalve
                 <?php echo "20".date("y"); ?></p>
         </div>
